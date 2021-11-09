@@ -6,9 +6,7 @@
 </head>
 <body>
 <h1>
-	사원관리시스템
-	
-	시작하기 / 설명보기 / 종료하기  
+	<a href = "http://localhost:8080/board/list">게시판 입장</a>	 
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>

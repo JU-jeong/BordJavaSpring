@@ -2,7 +2,7 @@
     pageEncoding="UTF-8"%>
 <html>
 	<head>
-		<script src="//code.jquery.com/jquery-3.2.1.min.js"></script> 
+		<script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
 	 	<title>게시판</title>
 	</head>
 	<script type="text/javascript">

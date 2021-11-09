@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="EUC-KR"%>
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -9,8 +9,8 @@
 <body>
 <div>
 	<div>
-		<a href="/board/list">¸ñ·Ï</a>
-		<a href="/board/writeView">±Û ÀÛ¼º</a>
+		<a href="/board/list">ëª©ë¡</a>
+		<a href="/board/writeView">ê¸€ ìž‘ì„±</a>
 	</div>
 </div>
 </body>
